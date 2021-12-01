@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/P. Android/UAS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19427083333333334" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/drawable/bg.xml" value="0.19427083333333334" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/drawable/bg_img.xml" value="0.19427083333333334" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/drawable/ic_haruki_icons.xml" value="0.19427083333333334" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/drawable/ic_haruki_icons_1.xml" value="0.19427083333333334" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19427083333333334" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/drawable/ic_splash.xml" value="0.19427083333333334" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/drawable/ripple.xml" value="0.19427083333333334" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/layout/activity_user.xml" value="0.5" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/layout/activity_welcome.xml" value="0.178125" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21927083333333333" />
+        <entry key="..\:/P. Android/UAS/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
