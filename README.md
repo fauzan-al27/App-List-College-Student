@@ -5,5 +5,5 @@ Aplikasi ini merupakan suatu tugas besar guna mengganti UAS yang menggunakan And
 3. Memanfaatkan berbagai fitu untuk kebutuhan layout
 
 
-# Link Demo
+# Download Demo
 https://drive.google.com/file/d/1e3HXkOlsQPVSjO3UUHtneELHsGxDGvZ_/view?usp=sharing
