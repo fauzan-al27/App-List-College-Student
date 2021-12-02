@@ -7,3 +7,7 @@ Aplikasi ini merupakan suatu tugas besar guna mengganti UAS yang menggunakan And
 
 # Download Demo
 https://drive.google.com/file/d/1e3HXkOlsQPVSjO3UUHtneELHsGxDGvZ_/view?usp=sharing
+
+# Default Account Testing
+Username: admin
+Password: admin
